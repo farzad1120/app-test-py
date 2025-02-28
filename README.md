@@ -1,2 +1,2 @@
 # Python Test App
-![Action Status](https://github.com/farzad1120/app-test-py/actions/workflows/python-app.yml/badge.svg)
+[![Python application](https://github.com/farzad1120/app-test-py/actions/workflows/main.yml/badge.svg?branch=main&event=push)](https://github.com/farzad1120/app-test-py/actions/workflows/main.yml)
